@@ -46,7 +46,7 @@ public class ProxyServerTest {
 
     @Test
     public void proxyTest(){
-        proxyServer.newHar("otus");
+        proxyServer.newHar();
 
         driver.get("https://www.otus.ru/");
 

@@ -97,6 +97,12 @@ modules.xml
 # Log file
 *.log
 
+# Har file
+*.har
+
+# JSON file
+*.json
+
 # BlueJ files
 *.ctxt
 
